@@ -1,0 +1,14 @@
+{
+  "name": "electron-study-todos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.5"
+  }
+}
